@@ -33,7 +33,9 @@ The regression model focused on the following variables:
 - Independent Variable: Potato Production difference (Potato Production in 2022 - Potato Production in 2021) in tons.
 The linear regression equation was formulated and analyzed within Excel to assess the relationship between changes in potato production and revenue changes.
 #### Result 
-[image]
+
+![regression](https://github.com/user-attachments/assets/0409d69f-cc67-417b-8a89-ba0283233030)
+
 - **Multiple R(0.8499):** The multiple correlation coefficient of 0.8499 indicates a strong positive correlation between changes in potato production (from 2021 to 2022) and revenue changes during the same period across all observations. This suggests that as potato production varies, revenue also experiences significant changes.
 - **R Square(0.7224):** The coefficient of determination at 0.7224 indicates that approximately 72.24% of the variation in revenue changes can be explained by changes in potato production. This high R Square value signifies that potato production changes explain a substantial portion of revenue fluctuations observed.
 
@@ -49,7 +51,9 @@ The clustering analysis focused on the following variables:
 - Independent Variable: Potato Yield Difference (Potato Yield in 2022 - Potato Yield in 2021) in tons.
 - The clustering algorithm used was K-means, with the number of clusters set to 3 based on initial analysis and insights.
 #### Result 
-[image]
+
+![clustering](https://github.com/user-attachments/assets/87d31d3b-68b6-4bb1-9f4c-01f8ddc4c32a)
+
 1. **Cluster 0: Countries with Positive Yield Differences** - These countries exhibited an increase in potato yield from 2021 to 2022, suggesting stable or improved potato production.
 2. **Cluster 1: Countries with Negative Yield Differences** - These countries experienced a decrease in potato yield from 2021 to 2022, indicating potential potato supply shortages or production challenges.
 3. **Cluster 2: Countries with Minimal Yield Differences** - These countries showed minimal changes in potato yield, indicating relatively stable potato production.
