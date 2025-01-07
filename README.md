@@ -1,6 +1,13 @@
 # McDonalds-Supply-Shortage
 ### Focusing on sustainable practices: Hub-and-Spoke Supply Chain Model & Strategic Supplier Partnerships 
 
+## Table of Contents
+- [Executive Summary](#executive-summary)
+- [Problem Analysis](#problem-analysis)
+- [Problem Statement](#problem-statement)
+- [Data Analysis](#data-analysis)
+- [Strategic Recommendations](#strategic-recommendations)
+
 ## Executive Summary
 This report addresses the critical challenges faced by McDonald's Corporation in its global supply chain, focusing on optimizing operational efficiency and enhancing resilience. By analyzing the **strong correlation (85%) between agricultural productivity—particularly in potatoes**—and **McDonald's sales performance across its top 20 markets,** the report highlights the significant impact of climate change on revenue fluctuations. These insights underscore the need for strategic interventions to strengthen supply chain stability.
 
@@ -64,6 +71,17 @@ This analysis contributes to understanding the impact of potato production chang
 ## Strategic Recommendations 
 - **Implementation of a Global Hub-and-Spoke Supply Chain Model** Centralize distribution by establishing a dedicated subsidiary as the hub to manage crop supplies, procurement, and logistics. Regionally group countries based on logistical routes and modes, with interconnected hubs ensuring timely redistribution of supplies during disruptions. This system is expected to mitigate risks from bad harvests or extreme weather by leveraging supplies from unaffected regions. Advanced tools for real-time tracking and demand forecasting enable proactive management, reducing logistics costs, optimizing transportation, and enhancing overall supply chain resilience.
 - **Strategic Supplier Partnerships** Develop strong, long-term relationships with local suppliers to ensure a stable and consistent supply of critical ingredients such as potatoes, tomatoes, and lettuce. By identifying and partnering with reliable suppliers, McDonald's can negotiate favorable contracts that provide a steady and predictable market for farmers, reducing sales uncertainty and securing their income. Additionally, promote sustainable farming practices, encouraging suppliers to adopt methods that support long-term harvest stability. This approach will not only ensure high-quality ingredients but also strengthen the resilience of the supply chain while fostering mutual growth and sustainability.
+
+## References 
+1. The Korea Times. (2022, September). Retrieved from [https://www.koreatimes.co.kr/www/tech/2022/09/419_336039.html?utm_source=na](https://www.koreatimes.co.kr/www/tech/2022/09/419_336039.html?utm_source=na)
+2. VICE. (n.d.). French Fries Shortage at McDonald's. Retrieved from [https://www.vice.com/en/article/qjbwpb/french-fries-shortage-mcdonalds](https://www.vice.com/en/article/qjbwpb/french-fries-shortage-mcdonalds)
+3. Bottrell, G. (n.d.). The Benefits of Conducting SWOT Analysis for Your Business. Retrieved from [https://www.linkedin.com/pulse/benefits-conducting-swot-analysis-your-business-gavin-bottrell/](https://www.linkedin.com/pulse/benefits-conducting-swot-analysis-your-business-gavin-bottrell/)
+4. McDonald's Corporation. (2023). 2023 Annual Report (Form 10-K). Retrieved from [link to the specific report if available]
+5. Yahoo Finance. (n.d.). McDonald's Strategic Awakening: A Long-Term View. Retrieved from [https://finance.yahoo.com/news/mcdonalds-strategic-awakening-long-term-200844748.html](https://finance.yahoo.com/news/mcdonalds-strategic-awakening-long-term-200844748.html)
+6. Yahoo Finance. (n.d.). Top 20 Countries with the Most McDonald's Restaurants. Retrieved from [https://finance.yahoo.com/news/top-20-countries-most-mcdonald-113242551.html](https://finance.yahoo.com/news/top-20-countries-most-mcdonald-113242551.html)
+7. Food and Agriculture Organization (FAO). (n.d.). FAOSTAT Database. Retrieved from [https://www.fao.org/faostat/en/#data/QCL](https://www.fao.org/faostat/en/#data/QCL)
+8. Malhi, G. S., Kaur, M., & Kaushik, P. (2021). Impact of Climate Change on Agriculture and Its Mitigation Strategies: A Review. Sustainability, 13(3), 1318. [https://doi.org/10.3390/su13031318](https://doi.org/10.3390/su13031318)
+
  
 
 
